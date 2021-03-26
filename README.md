@@ -1,5 +1,5 @@
 # AutonomousGameDrive
-OpenCV based Autonomous Car Drive in Game
+OpenCV-Python based Autonomous Car Drive in Game
 
 
 Hello everyone this project my first  Autonomous Car Drive project.
