@@ -19,4 +19,4 @@ For Example Screenshots In this Project
 ------------------------------------------------------------------------------------------------------------------
 
 
-My Blog : wwww.denizhanstudyo.wordpress.com
+My Blog : https://wwww.denizhanstudyo.wordpress.com
